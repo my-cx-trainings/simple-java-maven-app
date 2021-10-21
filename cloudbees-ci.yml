@@ -1,1 +1,2 @@
-test:
+jdk: 11
+lineCoverage: 80
