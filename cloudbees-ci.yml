@@ -5,4 +5,4 @@
 jdk: 8
 
 #lineCoverage - necessary percent of lines that have code coverage, valid values: 0-100
-lineCoverage: 90
+lineCoverage: 80
